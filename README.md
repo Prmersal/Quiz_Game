@@ -1,4 +1,5 @@
-#Quiz Game 🤓
+#Quiz Game 🤓:
+
 This simple quiz game is designed as an interactive web application where users can test their guessing skills. The game is implemented using HTML, CSS, and JavaScript, providing an engaging and visually appealing user interface.
 
 *Features:
